@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Home className="h-8 w-8 text-blue-400" />
-              <span className="text-2xl font-bold">İnallar Hayat</span>
+              <span className="text-2xl font-bold">Pastel İnşaat</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
               Bursa'nın en prestijli yaşam kompleksi. Modern mimari, lüks detaylar ve
@@ -109,7 +109,7 @@ export default function Footer() {
 
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            {currentYear} İnallar Hayat. Tüm hakları saklıdır.
+            {currentYear} Pastel İnşaat. Tüm hakları saklıdır.
           </p>
           <p className="text-gray-400 text-sm">
             30 yıllık güven ve kalite

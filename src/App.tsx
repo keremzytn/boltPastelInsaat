@@ -2,7 +2,9 @@ import { useState, useEffect } from 'react';
 import Navigation from './components/Navigation';
 import Hero from './components/Hero';
 import About from './components/About';
+import PresidentMessage from './components/PresidentMessage';
 import FloorPlans from './components/FloorPlans';
+import TechnicalSpecs from './components/TechnicalSpecs';
 import Amenities from './components/Amenities';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
@@ -24,7 +26,9 @@ function App() {
       <Navigation scrolled={scrolled} />
       <Hero />
       <About />
+      <PresidentMessage />
       <FloorPlans />
+      <TechnicalSpecs />
       <Amenities />
       <Gallery />
       <Contact />

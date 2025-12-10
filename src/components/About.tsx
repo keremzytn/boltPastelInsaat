@@ -33,7 +33,7 @@ export default function About() {
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            İnallar Grubu olarak 30 yılı aşkın süredir farklı sektörlerde hizmet veriyor,
+            Pastel İnşaat olarak 30 yılı aşkın süredir farklı sektörlerde hizmet veriyor,
             güven ve kalite anlayışımızla sizlere hayalinizdeki yaşamı sunuyoruz.
           </p>
         </div>
@@ -59,7 +59,7 @@ export default function About() {
               Modern Yaşamın Merkezi
             </h3>
             <p className="text-gray-600 mb-4 leading-relaxed">
-              İnallar Hayat, Bursa'nın en değerli lokasyonunda konumlanmış, sosyal yaşam
+              Pastel İnşaat, Bursa'nın en değerli lokasyonunda konumlanmış, sosyal yaşam
               alanları ve modern mimarisiyle öne çıkan bir yaşam kompleksidir.
             </p>
             <p className="text-gray-600 mb-4 leading-relaxed">

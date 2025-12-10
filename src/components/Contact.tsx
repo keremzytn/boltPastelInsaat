@@ -37,8 +37,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'E-posta',
-      content: 'info@inallarhayat.com.tr',
-      link: 'mailto:info@inallarhayat.com.tr',
+      content: 'info@pastelinsaat.com.tr',
+      link: 'mailto:info@pastelinsaat.com.tr',
     },
     {
       icon: MapPin,
@@ -165,7 +165,7 @@ export default function Contact() {
               <div>
                 <h4 className="font-semibold mb-2">Adres</h4>
                 <p className="text-blue-100">
-                  İnallar Hayat Satış Ofisi<br />
+                  Pastel İnşaat Satış Ofisi<br />
                   Nilüfer, Bursa<br />
                   Türkiye
                 </p>
